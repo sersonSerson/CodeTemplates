@@ -3,7 +3,7 @@
 # Feature selection
 | №   | Link       | Template description|  
 | --- |:-----------------------------------------:| -------------------------:| 
-|1    |[Chi squared](FeatureSelection)| Test for significant difference between expected and observed results.|
+|1    |[Chi squared](FeatureSelection\Chi2.ipynb)| Test for significant difference between expected and observed results.|
 |2    |[R regression](\Feature selection\R regression or correlation.ipynb)| Measure of linear dependence between feature and dependent varible.|
 |3    |[F regression](\Feature selection\F-regression and p-values.ipynb)| ANOVA statistic for feature importance, compares xplained variance to unexplained variance or <br> between group variability and within group variability.|
 
