@@ -3,5 +3,5 @@
 # Explained Metrics and Models
 [Explained metrics and models](Explained)
 
-# COde templates to use in analysis
-[Explained metrics and models](Templates)
+# Code templates to use in analysis
+[Code templates](Templates)
