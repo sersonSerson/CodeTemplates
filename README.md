@@ -1,4 +1,7 @@
-# Goal: create code fragments that can be used multiple times and speed up analysis.
+# Code templates and explained metrics and models
 
 # Explained Metrics and Models
 [Explained metrics and models](Explained)
+
+# COde templates to use in analysis
+[Explained metrics and models](Templates)
